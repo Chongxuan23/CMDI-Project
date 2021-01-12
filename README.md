@@ -1,7 +1,7 @@
 # CMDI-Project
 # Internship project at China Mobile Development Institute
 
-## My responsibilities:
+## My responsibilities
 
 ● Preprocessed input text data and separated words into characters and character-pairs.
 
