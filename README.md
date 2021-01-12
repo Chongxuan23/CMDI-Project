@@ -1,7 +1,7 @@
 # CMDI-Project
 # Internship project at China Mobile Development Institute
 
-## My responsibilities include:
+## My responsibilities:
 
 ● Preprocessed input text data and separated words into characters and character-pairs.
 
@@ -11,7 +11,7 @@
 
 ● Fit the model to the validation set and made predictions.
 
-## Uploaded files include:
+## Uploaded files
 
 ● "cn_stopwords.csv" contains Chinese stopwords.
 
